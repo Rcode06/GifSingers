@@ -1,4 +1,4 @@
-var singers = ["Shakira", "Enrique Iglesias", "Michael Jackson", "Ricky Martin", "Thalia", "Michael Buble", "Selena Gomez", "David Archuleta","Selena"];
+var singers = ["Shakira", "Enrique Iglesias", "Michael Jackson", "Ricky Martin", "Thalia", "Michael Buble", "Selena Gomez", "David Archuleta","Selena" ,"Ed Sheeran"];
 
     //function to get singer's data from giphy.com 
       function displaySingerInfo(){
